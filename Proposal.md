@@ -25,7 +25,7 @@ En el país, están ocurriendo Anomalías producidas por Fantasmas. Para solucio
 
 <img src="./images/DC-Proposal-MD.jpg" alt="Modelo de Dominio" />
 
-[Link del modelo (Draw.io)](https://drive.google.com/file/d/1HeMkrRZlK2XFopvsYgOCOr_etJiKIp7_/view?usp=sharing)
+[Link del modelo (Draw.io)](https://drive.google.com/file/d/1nvuqq4q7oPEYy1G9w3kx8abTgB54wVwt/view?usp=sharing)
 
 ## Alcance Funcional
 
